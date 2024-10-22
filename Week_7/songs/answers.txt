@@ -1,0 +1,12 @@
+If songs.db contains the top 100 songs of one listener from 2018, how would you characterize their audio aura?
+
+Hypothesize about why the way you’ve calculated this aura might not be very representative of the listener.
+What better ways of calculating this aura would you propose?
+
+The average energy for the playlist is .65906 and the danceability average is .71746. These suggest that the listener of this playlist prefers
+high energy, upbeat music that makes them want to move. However, the valence is only at .484443, indicating the songs theme of the songs aren't
+as upbeat as the energy level. I would characterize the aura as Purple: "This aura color pairs well with passionate music listeners. Purple
+auras tune in to get amped up, entertained, and moving while they navigate the twists and turns of their day."
+
+Rather than looking at the mean, I would suggest looking at the median. A few outliers can too easily skew the data. Perhaps rounding the values
+to the near whole number or tenth, then finding the mode. 
