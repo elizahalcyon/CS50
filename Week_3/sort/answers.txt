@@ -1,0 +1,11 @@
+sort1 uses: bubble
+
+How do you know?: Random (real 8.619) and reversed (6.681) took longer, but sorted (1.528) was significantly faster.
+
+sort2 uses: merge
+
+How do you know?: It's the fastest across all data sets: Random .996, reversed 1.607, sorted .864.
+
+sort3 uses: selection
+
+How do you know?: The times were most similar regardless of if they were random (5.061), reversed (4.132), or sorted (4.231).
